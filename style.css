@@ -1,0 +1,49 @@
+#navbarNav {
+    font-size: 12px;
+}
+
+.navbar {
+    position: sticky; 
+    top: 0;
+}
+
+.nav-mid {
+    justify-content: center;
+    align-items: center;
+}
+
+#ssense {
+    font-size: 19px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-right {
+    float: right;
+}
+
+.foot {
+    font-size: 11px;
+    justify-content: space-evenly;
+}
+
+.last {
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 10px;
+    justify-content: center;
+}
+
+#about {
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.footer {
+    margin-top: 80px;
+}
+
+h2 {
+    font-size: 22px;
+    font-family: sans-serif;
+}
